@@ -1,0 +1,4 @@
+# Repositorio de DISTRIBUICAO por hash: o sha256 no manifest.json precisa bater
+# exatamente com os bytes servidos pelo raw GitHub e baixados pelo launcher.
+# Por isso o Git NAO pode alterar quebra de linha (LF<->CRLF) de nenhum arquivo.
+* -text

@@ -1,0 +1,10 @@
+# Sobras de download do launcher na pasta do jogador
+*.part
+*.gz.part
+*.unpack
+
+# Arquivos criados pelo launcher na pasta do jogador (nao versionar)
+.launcher_cache.json
+.installed_version
+launcher.log
+*.log
