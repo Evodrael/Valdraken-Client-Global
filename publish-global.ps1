@@ -99,6 +99,72 @@ function Test-Excluded {
 }
 
 # ---------------------------------------------------------------------------
+# Assets orfaos: presentes na pasta, mas que nenhum codigo carrega.
+# ---------------------------------------------------------------------------
+# Os assets tem o hash no nome (appearances-<hash>.dat), entao regerar conteudo
+# cria um arquivo NOVO em vez de alterar o existente - e o antigo fica para tras na
+# pasta de origem. Ele nao e lixo obvio (nao tem 'bak' no nome), mas tambem nao e
+# carregado por ninguem: o catalog-content.json aponta so para a versao atual.
+# Sem esta checagem cada jogador baixa alguns MB que o client nunca vai abrir.
+#
+# A regra deriva os prefixos "gerenciados" do proprio catalog: se o catalog referencia
+# algum 'appearances-*', entao TODO 'appearances-*' precisa estar referenciado. Prefixos
+# que nunca aparecem no catalog (satellite-, minimap-, subarea-) sao resolvidos por
+# convencao de nome pelo client e ficam intactos - nao confundir com orfao.
+
+$script:catalogRefs     = $null   # nomes exatos referenciados
+$script:catalogPrefixes = $null   # prefixos sob a regra
+
+function Initialize-CatalogFilter {
+    param([string]$AssetsDir)
+
+    $catalogFile = Join-Path $AssetsDir 'catalog-content.json'
+    if (-not (Test-Path $catalogFile)) {
+        Write-Warning "catalog-content.json nao encontrado; a checagem de assets orfaos foi pulada."
+        return
+    }
+
+    try {
+        $catalog = Get-Content -Path $catalogFile -Raw | ConvertFrom-Json
+    } catch {
+        Write-Warning "catalog-content.json ilegivel ($($_.Exception.Message)); checagem de orfaos pulada."
+        return
+    }
+
+    $refs     = New-Object System.Collections.Generic.HashSet[string] ([StringComparer]::OrdinalIgnoreCase)
+    $prefixes = New-Object System.Collections.Generic.HashSet[string] ([StringComparer]::OrdinalIgnoreCase)
+
+    foreach ($entry in $catalog) {
+        if (-not $entry.file) { continue }
+        [void]$refs.Add($entry.file)
+        [void]$prefixes.Add(($entry.file -split '-')[0])
+    }
+
+    if ($refs.Count -eq 0) {
+        Write-Warning "catalog-content.json sem entradas utilizaveis; checagem de orfaos pulada."
+        return
+    }
+
+    $script:catalogRefs     = $refs
+    $script:catalogPrefixes = $prefixes
+}
+
+function Test-CatalogOrphan {
+    param([string]$Rel, [string]$Name)
+
+    if (-not $script:catalogRefs) { return $false }          # sem catalog: nao filtra nada
+
+    # A regra vale apenas para arquivos direto em assets/ (a pasta e plana).
+    if ($Rel -notmatch '^assets/[^/]+$') { return $false }
+    if ($Name -eq 'catalog-content.json') { return $false }  # o proprio indice
+
+    $prefix = ($Name -split '-')[0]
+    if (-not $script:catalogPrefixes.Contains($prefix)) { return $false }  # resolvido por convencao
+
+    return -not $script:catalogRefs.Contains($Name)
+}
+
+# ---------------------------------------------------------------------------
 # Versao
 # ---------------------------------------------------------------------------
 
@@ -179,14 +245,23 @@ if (Test-Path $manifestPath) {
 
 $srcRootLen = (Resolve-Path $Source).Path.TrimEnd('\').Length + 1
 
+Initialize-CatalogFilter -AssetsDir (Join-Path $Source 'assets')
+
 Write-Host "Lendo e hasheando a origem..."
 $entries  = New-Object System.Collections.Generic.List[object]
 $expected = New-Object System.Collections.Generic.HashSet[string]   # arquivos que devem existir no repo
 $copied = 0; $gzipped = 0; $skipped = 0
+$orphans = New-Object System.Collections.Generic.List[object]
 
 foreach ($f in (Get-ChildItem -Path $Source -Recurse -File -Force)) {
     $rel = $f.FullName.Substring($srcRootLen).Replace('\', '/')
     if (Test-Excluded -Rel $rel -Name $f.Name) { $skipped++; continue }
+
+    # Asset que existe na pasta mas nao esta no catalog: nao vai para os players.
+    if (Test-CatalogOrphan -Rel $rel -Name $f.Name) {
+        $orphans.Add([pscustomobject]@{ Name = $f.Name; Size = $f.Length })
+        continue
+    }
 
     $srcHash = (Get-FileHash -Path $f.FullName -Algorithm SHA256).Hash.ToLower()
     $compress = $f.Length -gt $maxRawBytes
@@ -322,5 +397,19 @@ Write-Host "Publicado: $($sorted.Count) arquivos, versao $ver." -ForegroundColor
 Write-Host ("  no disco do player : {0:N1} MB" -f ($totalFinal / 1MB))
 Write-Host ("  download (com gzip): {0:N1} MB" -f ($totalTransfer / 1MB))
 Write-Host "  copiados: $copied   comprimidos: $gzipped   removidos: $removed   ignorados na origem: $skipped"
+
+# Orfaos aparecem sempre, e nominalmente: sao arquivos que VOCE gerou e que o catalog
+# deixou de referenciar. Sem esse aviso eles somem silenciosamente da distribuicao, e
+# vale saber - se um deles deveria estar em uso, o problema esta no catalog.
+if ($orphans.Count -gt 0) {
+    $orphanMB = (($orphans | Measure-Object Size -Sum).Sum) / 1MB
+    Write-Host ""
+    Write-Host ("Assets fora do catalog-content.json - NAO publicados ({0} arquivos, {1:N1} MB poupados por jogador):" -f $orphans.Count, $orphanMB) -ForegroundColor Yellow
+    $orphans | Sort-Object Size -Descending | Select-Object -First 10 | ForEach-Object {
+        Write-Host ("  {0,8:N2} MB  {1}" -f ($_.Size / 1MB), $_.Name)
+    }
+    if ($orphans.Count -gt 10) { Write-Host "  ... e mais $($orphans.Count - 10)" }
+    Write-Host "  (se algum deveria estar em uso, o catalog-content.json e que esta errado)"
+}
 Write-Host ""
 Write-Host "Proximo passo:  git add -A; git commit -m ""client global $ver""; git push"

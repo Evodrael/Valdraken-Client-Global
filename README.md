@@ -73,9 +73,24 @@ O `conf/config.ini` **é** publicado — é ele que aponta o client para
 
 ### 3. Arquivos órfãos
 
-Os assets têm o hash no nome (`appearances-<hash>.dat`), então uma atualização de conteúdo
-cria um arquivo novo em vez de alterar o antigo. O script remove daqui o que não está mais
-na pasta de origem, senão o repositório só cresce.
+Os assets têm o hash no nome (`appearances-<hash>.dat`), então regerar conteúdo cria um
+arquivo **novo** em vez de alterar o antigo. Isso gera dois tipos de órfão, e o script
+trata os dois:
+
+- **Saiu da origem** → é removido deste repositório, senão ele só cresce.
+- **Continua na origem, mas o `catalog-content.json` não referencia mais** → não é
+  publicado. Não tem `bak` no nome e parece conteúdo legítimo, mas nenhum código carrega:
+  cada jogador baixaria alguns MB inúteis.
+
+A segunda regra deriva os prefixos do próprio catalog: se o catalog referencia algum
+`appearances-*`, então todo `appearances-*` tem que estar referenciado. Prefixos que
+**nunca** aparecem no catalog (`satellite-`, `minimap-`, `subarea-`) são resolvidos por
+convenção de nome pelo client e ficam intactos — não confundir "fora do catalog" com
+"órfão". Se o catalog estiver ilegível ou ausente, a checagem é pulada com aviso em vez de
+derrubar o release.
+
+Os órfãos são sempre listados nominalmente no fim do publish. Se algum deles **deveria**
+estar em uso, o erro está no `catalog-content.json`, não aqui.
 
 ---
 
@@ -83,9 +98,9 @@ na pasta de origem, senão o repositório só cresce.
 
 | | |
 |---|---|
-| Arquivos publicados | 10.256 |
-| Tamanho no disco do player | 651,8 MB |
-| Download (com o gzip) | 539,6 MB |
+| Arquivos publicados | 10.255 |
+| Tamanho no disco do player | 646,5 MB |
+| Download (com o gzip) | 534,4 MB |
 | Maior arquivo do repo | 76,9 MB (`bin/Qt6WebEngineCore.dll.gz`) |
 
 ---
