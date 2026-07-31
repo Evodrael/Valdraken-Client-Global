@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.05",
-    "generated":  "2026-07-31T19:05:22-03:00",
+    "version":  "15.24.06",
+    "generated":  "2026-07-31T19:20:27-03:00",
     "count":  10255,
     "files":  [
                   {
@@ -49,9 +49,9 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-d4cbca7fea1e0f3510a9e221a6332022b0d709917b88ee83b399a4c49b0d1ac4.dat",
-                      "sha256":  "d4cbca7fea1e0f3510a9e221a6332022b0d709917b88ee83b399a4c49b0d1ac4",
-                      "size":  5510454
+                      "path":  "assets/appearances-3460a77821be50ad945276726beb4e574396b3a246c10198f682a30059f9616b.dat",
+                      "sha256":  "3460a77821be50ad945276726beb4e574396b3a246c10198f682a30059f9616b",
+                      "size":  5510252
                   },
                   {
                       "path":  "assets/backdrop_map-c92739d7eaacf08338f2af80ea3b54829897a77f82f5630b1dcd4368807c4639.jpg",
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "eceb4f59e0d20cdcec32a0e9a971b77757c936d35835ab6ae5999e912c335907",
+                      "sha256":  "deee03106405c37878bfee4873cc7d2f86691ef223f12ab367b8b85c08da34a5",
                       "size":  1501067
                   },
                   {
@@ -50934,8 +50934,8 @@
                   },
                   {
                       "path":  "storeimages/data8/1/178g0z4a.d",
-                      "sha256":  "a73d65c3ccfa978acf52abaffd574a45947a0fbffe7d80b0f51c6da7a039f5d9",
-                      "size":  1120
+                      "sha256":  "0a274a245b36ced7b629ad3d2c87efb5f086ee5c6cbdebe25439d3ab8ceb35f2",
+                      "size":  1127
                   },
                   {
                       "path":  "storeimages/data8/1/1kex9x91.d",
@@ -50974,8 +50974,8 @@
                   },
                   {
                       "path":  "storeimages/data8/2/-135fxd2.d",
-                      "sha256":  "44eb8f61426def4ef2c552f1e2ca9d535659f220412caafa5e7bc10d56ba9633",
-                      "size":  1482
+                      "sha256":  "ea8c6db7fed00fa6b8ebce01536479e6b30ae3495d8c895807366b452e0ff72e",
+                      "size":  1492
                   },
                   {
                       "path":  "storeimages/data8/2/19vfofmr.d",
@@ -51029,8 +51029,8 @@
                   },
                   {
                       "path":  "storeimages/data8/4/-1xvqfyd.d",
-                      "sha256":  "87098b28f00d7d74b0c7f4b90c5336e877d886ccfd75de62d8d825a90c3a086f",
-                      "size":  1256
+                      "sha256":  "8577a1c09c116b6d01f6d920c6b46dad3ca15d7c2b13f20c42fdb55d07e74cbd",
+                      "size":  1264
                   },
                   {
                       "path":  "storeimages/data8/4/-2x31vp4.d",
@@ -51134,8 +51134,8 @@
                   },
                   {
                       "path":  "storeimages/data8/7/-1u1ouv7.d",
-                      "sha256":  "547fc5bacb95089a9facbb135a3381bfba18f001d1bbd5dcccc5e683dda57430",
-                      "size":  1107
+                      "sha256":  "7d2ad4ac2dcc3b9e30a8eac0895bdef8c597c82dedc0d9a0f0acc06e999fbb72",
+                      "size":  1101
                   },
                   {
                       "path":  "storeimages/data8/7/77twhtcw.d",
@@ -51144,8 +51144,8 @@
                   },
                   {
                       "path":  "storeimages/data8/7/7grywihw.d",
-                      "sha256":  "f6af22b352daff39ba14f15a7d2497ea5d15c2199b2b66b75869a10c1571168c",
-                      "size":  1489
+                      "sha256":  "39ca3d4c79adf2ea7e3462e1ba934c001104bdcac20820fb7fbfae875761b11c",
+                      "size":  1493
                   },
                   {
                       "path":  "storeimages/data8/7/-9y97vug.d",
@@ -51169,8 +51169,8 @@
                   },
                   {
                       "path":  "storeimages/data8/8/-1temjxh.d",
-                      "sha256":  "d95def7523d876e7dfe280f0c0f3988356332df1c52e872ec40e5ce22f284ba9",
-                      "size":  1468
+                      "sha256":  "5a89c696b31e44a8d17fc5733c1262a661c4e2f963c5e3149c52d90054df3a9f",
+                      "size":  1496
                   },
                   {
                       "path":  "storeimages/data8/8/-ty48w3h.d",
@@ -51244,8 +51244,8 @@
                   },
                   {
                       "path":  "storeimages/data8/c/1syg91vl.d",
-                      "sha256":  "9842d313d6bf290389a81f3a04e8664b08ff45b7dafa2dde8f462e6d86f5f63c",
-                      "size":  1493
+                      "sha256":  "e75f2431ccd037df06a684c9886a8df31934f8803566cc33b78b871ebbfbd6f5",
+                      "size":  1507
                   },
                   {
                       "path":  "storeimages/data8/c/6zo2r4ol.d",
@@ -51259,13 +51259,13 @@
                   },
                   {
                       "path":  "storeimages/data8/e/1j9ttlln.d",
-                      "sha256":  "9ebfef42e819b0beeb76f04f1608666d49c2e751a6977ddf390a77a991b81c4b",
-                      "size":  1469
+                      "sha256":  "f5c640bc7e44ea3e4e1be1dc31e7807534980c6dc5d7a235fdd0d5e860518c08",
+                      "size":  1479
                   },
                   {
                       "path":  "storeimages/data8/e/1v7t8wnn.d",
-                      "sha256":  "147188d55fa607a2787a651f8abcd9edc15f15656c7c39bd37e0fce1398dd158",
-                      "size":  1481
+                      "sha256":  "73406f0a775c1ce571d78cc176cb62d266dab0d34f8df90a72c1fec560628579",
+                      "size":  1486
                   },
                   {
                       "path":  "storeimages/data8/f/1g7s7b2o.d",
