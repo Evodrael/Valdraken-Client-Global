@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.11",
-    "generated":  "2026-08-09T12:52:49-03:00",
+    "version":  "15.24.12",
+    "generated":  "2026-08-11T20:30:26-03:00",
     "count":  10284,
     "files":  [
                   {
@@ -39980,8 +39980,8 @@
                   },
                   {
                       "path":  "bin/graphics_resources.rcc",
-                      "sha256":  "c998ca8c2889cb336d3856b996b250724906a0a4aaaeeae6773d666519f36d08",
-                      "size":  7835677
+                      "sha256":  "69bcae2bad223d3097644fad46b51c402feb760d9f0ae19a412dcad34d31d906",
+                      "size":  7887680
                   },
                   {
                       "path":  "bin/imageformats/qgif.dll",
