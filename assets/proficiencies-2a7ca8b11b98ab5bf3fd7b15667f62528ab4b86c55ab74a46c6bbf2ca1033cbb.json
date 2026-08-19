@@ -35,7 +35,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.1
           },
@@ -49,13 +49,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.2
           },
           {
             "AugmentType": 2,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.04
           }
@@ -70,7 +70,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.03
           },
@@ -142,7 +142,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.1
           },
@@ -156,13 +156,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.2
           },
           {
             "AugmentType": 2,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.04
           }
@@ -177,7 +177,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.03
           },
@@ -249,7 +249,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.1
           },
@@ -263,13 +263,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.2
           },
           {
             "AugmentType": 2,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.04
           }
@@ -284,7 +284,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 105,
+            "SpellId": 59,
             "Type": 5,
             "Value": 0.03
           },
@@ -898,7 +898,7 @@
         "Perks": [
           {
             "AugmentType": 2,
-            "SpellId": 13,
+            "SpellId": 118,
             "Type": 5,
             "Value": 0.04
           },
@@ -1124,7 +1124,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.2
           },
@@ -1138,13 +1138,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.4
           },
           {
             "AugmentType": 2,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.08
           }
@@ -1159,7 +1159,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.03
           },
@@ -1231,7 +1231,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.2
           },
@@ -1245,13 +1245,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.4
           },
           {
             "AugmentType": 2,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.08
           }
@@ -1266,7 +1266,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.03
           },
@@ -1338,7 +1338,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.2
           },
@@ -1352,13 +1352,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.4
           },
           {
             "AugmentType": 2,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.08
           }
@@ -1373,7 +1373,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 105,
+            "SpellId": 261,
             "Type": 5,
             "Value": 0.03
           },
@@ -1865,7 +1865,7 @@
           },
           {
             "AugmentType": 14,
-            "SpellId": 294,
+            "SpellId": 289,
             "Type": 5,
             "Value": 0.05
           },
@@ -1883,7 +1883,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 294,
+            "SpellId": 289,
             "Type": 5,
             "Value": 0.04
           },
@@ -1897,13 +1897,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 294,
+            "SpellId": 289,
             "Type": 5,
             "Value": 0.4
           },
           {
             "AugmentType": 2,
-            "SpellId": 294,
+            "SpellId": 289,
             "Type": 5,
             "Value": 0.08
           }
@@ -1918,7 +1918,7 @@
           },
           {
             "AugmentType": 17,
-            "SpellId": 294,
+            "SpellId": 289,
             "Type": 5,
             "Value": 0.03
           },
@@ -1987,7 +1987,7 @@
         "Perks": [
           {
             "AugmentType": 2,
-            "SpellId": 120,
+            "SpellId": 263,
             "Type": 5,
             "Value": 0.08
           },
@@ -2101,7 +2101,7 @@
         "Perks": [
           {
             "AugmentType": 2,
-            "SpellId": 13,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.08
           },
@@ -2979,8 +2979,10 @@
       {
         "Perks": [
           {
-            "Type": 21,
-            "Value": 20
+            "AugmentType": 14,
+            "SpellId": 57,
+            "Type": 5,
+            "Value": 0.05
           },
           {
             "Range": 4,
@@ -3002,9 +3004,10 @@
             "Value": 0.03
           },
           {
-            "SkillId": 1,
-            "Type": 27,
-            "Value": 0.75
+            "AugmentType": 16,
+            "SpellId": 57,
+            "Type": 5,
+            "Value": 0.15
           },
           {
             "Type": 12,
@@ -3051,8 +3054,10 @@
             "Value": 0.08
           },
           {
-            "Type": 20,
-            "Value": 20
+            "AugmentType": 2,
+            "SpellId": 57,
+            "Type": 5,
+            "Value": 0.06
           }
         ]
       },
@@ -3203,7 +3208,7 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 260,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.02
           },
@@ -3228,7 +3233,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 260,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.1
           },
@@ -3292,13 +3297,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3308,7 +3313,7 @@
         "Perks": [
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -6.0
           }
@@ -3318,13 +3323,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3334,13 +3339,13 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.025
           },
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -8.0
           },
@@ -3360,7 +3365,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3394,13 +3399,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3410,7 +3415,7 @@
         "Perks": [
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -6.0
           }
@@ -3420,13 +3425,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3436,13 +3441,13 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.025
           },
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -8.0
           },
@@ -3462,7 +3467,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3496,13 +3501,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3512,7 +3517,7 @@
         "Perks": [
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -6.0
           }
@@ -3522,13 +3527,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3538,13 +3543,13 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.025
           },
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -8.0
           },
@@ -3564,7 +3569,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3598,13 +3603,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3614,7 +3619,7 @@
         "Perks": [
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -6.0
           }
@@ -3624,13 +3629,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3640,13 +3645,13 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.025
           },
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -8.0
           },
@@ -3666,7 +3671,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3700,13 +3705,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3716,7 +3721,7 @@
         "Perks": [
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -6.0
           }
@@ -3726,13 +3731,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3742,13 +3747,13 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.025
           },
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -8.0
           },
@@ -3768,7 +3773,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3802,13 +3807,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3818,7 +3823,7 @@
         "Perks": [
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -6.0
           }
@@ -3828,13 +3833,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.07
           },
           {
             "AugmentType": 14,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -3844,13 +3849,13 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.025
           },
           {
             "AugmentType": 6,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": -8.0
           },
@@ -3870,7 +3875,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 62,
+            "SpellId": 106,
             "Type": 5,
             "Value": 0.5
           }
@@ -4160,7 +4165,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 43,
+            "SpellId": 118,
             "Type": 5,
             "Value": 0.06
           }
@@ -4179,7 +4184,7 @@
         "Perks": [
           {
             "AugmentType": 14,
-            "SpellId": 43,
+            "SpellId": 118,
             "Type": 5,
             "Value": 0.1
           }
@@ -4250,7 +4255,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 119,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.1
           }
@@ -4269,7 +4274,7 @@
         "Perks": [
           {
             "AugmentType": 15,
-            "SpellId": 119,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.5
           }
@@ -18512,13 +18517,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 122,
+            "SpellId": 258,
             "Type": 5,
             "Value": 0.06
           },
           {
             "AugmentType": 14,
-            "SpellId": 122,
+            "SpellId": 258,
             "Type": 5,
             "Value": 0.06
           }
@@ -18543,13 +18548,13 @@
         "Perks": [
           {
             "AugmentType": 16,
-            "SpellId": 122,
+            "SpellId": 258,
             "Type": 5,
             "Value": 0.06
           },
           {
             "AugmentType": 14,
-            "SpellId": 122,
+            "SpellId": 258,
             "Type": 5,
             "Value": 0.06
           }
@@ -18584,7 +18589,7 @@
           },
           {
             "AugmentType": 15,
-            "SpellId": 122,
+            "SpellId": 258,
             "Type": 5,
             "Value": 0.06
           }
@@ -25542,8 +25547,10 @@
       {
         "Perks": [
           {
-            "Type": 19,
-            "Value": 10
+            "AugmentType": 14,
+            "SpellId": 57,
+            "Type": 5,
+            "Value": 0.05
           },
           {
             "Range": 4,
@@ -25565,9 +25572,10 @@
             "Value": 0.03
           },
           {
-            "SkillId": 1,
-            "Type": 27,
-            "Value": 0.75
+            "AugmentType": 16,
+            "SpellId": 57,
+            "Type": 5,
+            "Value": 0.15
           },
           {
             "Type": 12,
@@ -25614,8 +25622,10 @@
             "Value": 0.08
           },
           {
-            "Type": 18,
-            "Value": 7
+            "AugmentType": 2,
+            "SpellId": 57,
+            "Type": 5,
+            "Value": 0.06
           }
         ]
       },

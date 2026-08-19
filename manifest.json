@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.13",
-    "generated":  "2026-08-16T10:57:52-03:00",
+    "version":  "15.24.14",
+    "generated":  "2026-08-19T09:52:46-03:00",
     "count":  10284,
     "files":  [
                   {
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "0b430eaaeea28a1ad4efe84bc6758f522a00288be1c5e95edddb09c499ff0f99",
+                      "sha256":  "f9510eb8ab6686a3b1816a09d30631f2ed1d232cfb00d3677e2d025eeb8e0046",
                       "size":  1507448
                   },
                   {
@@ -1044,9 +1044,9 @@
                       "size":  378
                   },
                   {
-                      "path":  "assets/proficiencies-86cfe78d03b2f99c444ae663288aed21a2268ec5aeb4638917039344d716c5ca.json",
-                      "sha256":  "86cfe78d03b2f99c444ae663288aed21a2268ec5aeb4638917039344d716c5ca",
-                      "size":  462443
+                      "path":  "assets/proficiencies-2a7ca8b11b98ab5bf3fd7b15667f62528ab4b86c55ab74a46c6bbf2ca1033cbb.json",
+                      "sha256":  "2a7ca8b11b98ab5bf3fd7b15667f62528ab4b86c55ab74a46c6bbf2ca1033cbb",
+                      "size":  462780
                   },
                   {
                       "path":  "assets/satellite-16-0996-0968-00-afe4828ec88515bac295a5fcfef12a6566b6430777f70ed257387d6185294f2f.bmp.lzma",
