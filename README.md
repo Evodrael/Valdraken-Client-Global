@@ -5,14 +5,14 @@ Repositório de **distribuição** do Client Global. Os players não clonam isto
 `raw.githubusercontent.com`.
 
 Este repositório é **gerado**, nunca editado à mão. A fonte é a pasta do client
-(`C:\Valdraken-Client-Global-Final`) e o script `publish-global.ps1`.
+(`D:\Valdraken-Client-Global-Final`) e o script `publish-global.ps1`.
 
 ---
 
 ## Publicar uma atualização
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File C:\Valdraken-Client-Global-Repo\publish-global.ps1 -Version 15.24.01
+powershell -ExecutionPolicy Bypass -File D:\Valdraken-Client-Global-Repo\publish-global.ps1 -Version 15.24.01
 ```
 
 Depois:
@@ -29,7 +29,7 @@ Só isso. O launcher detecta no próximo start dos players.
 Para conferir o repositório contra o manifest sem escrever nada:
 
 ```powershell
-powershell -ExecutionPolicy Bypass -File C:\Valdraken-Client-Global-Repo\publish-global.ps1 -Check
+powershell -ExecutionPolicy Bypass -File D:\Valdraken-Client-Global-Repo\publish-global.ps1 -Check
 ```
 
 ---

@@ -35,7 +35,7 @@
 [CmdletBinding()]
 param(
     # Pasta do client de onde os arquivos sao copiados.
-    [string]$Source = 'C:\Valdraken-Client-Global-Final',
+    [string]$Source = 'D:\Valdraken-Client-Global-Final',
 
     # Nova versao (ex.: 15.24.36). Se omitido, reaproveita a de version.txt.
     [string]$Version,
