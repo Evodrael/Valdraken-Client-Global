@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.23",
-    "generated":  "2026-09-14T01:34:38-03:00",
+    "version":  "15.24.24",
+    "generated":  "2026-09-14T01:43:26-03:00",
     "count":  10285,
     "files":  [
                   {
@@ -49,8 +49,8 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-89997c21b2d5dfafd1eeb88b256e1dafc1ca16b043a93f48bf2929a6e79cd41b.dat",
-                      "sha256":  "89997c21b2d5dfafd1eeb88b256e1dafc1ca16b043a93f48bf2929a6e79cd41b",
+                      "path":  "assets/appearances-686944e6c9dab2277448b404e65b53f3a681d5b90debb45b26ab19e32f7532f2.dat",
+                      "sha256":  "686944e6c9dab2277448b404e65b53f3a681d5b90debb45b26ab19e32f7532f2",
                       "size":  5511856
                   },
                   {
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "d89fe6575f87627e994f6d3f2c18457e5f73cd80803937a9f8012c1f7ad275ca",
+                      "sha256":  "90b3828e14c0c17b2f371956811d3806a9598f69c0cfa28b71d3287abab62831",
                       "size":  1507626
                   },
                   {
@@ -1044,9 +1044,9 @@
                       "size":  378
                   },
                   {
-                      "path":  "assets/proficiencies-5b0036324ff7d3ecde43d76b587b5529153bf057026e4c22295d488d98363044.json",
-                      "sha256":  "5b0036324ff7d3ecde43d76b587b5529153bf057026e4c22295d488d98363044",
-                      "size":  468684
+                      "path":  "assets/proficiencies-f8fb05dcab45ab30b00b55628a59314353edb502e77b6691f12ddcfff94a6f60.json",
+                      "sha256":  "f8fb05dcab45ab30b00b55628a59314353edb502e77b6691f12ddcfff94a6f60",
+                      "size":  470614
                   },
                   {
                       "path":  "assets/satellite-16-0996-0968-00-afe4828ec88515bac295a5fcfef12a6566b6430777f70ed257387d6185294f2f.bmp.lzma",
