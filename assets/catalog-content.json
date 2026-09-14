@@ -1,7 +1,7 @@
 [
   {
     "type": "appearances",
-    "file": "appearances-686944e6c9dab2277448b404e65b53f3a681d5b90debb45b26ab19e32f7532f2.dat"
+    "file": "appearances-98d687692dd9c00a95886cc1d0630601514b5c03140d9a6d6fc6528a60a0ba04.dat"
   },
   {
     "type": "staticdata",
@@ -55023,4 +55023,10 @@
     "lastspriteid": 375707,
     "area": 0
   },
-{"type":"sprite","file":"sprites-b442bc8e9a890fc1d0669c77df51d5cd400c389d39f2eee434fcfb7415e06e1a.bmp.lzma","spritetype":3,"firstspriteid":375708,"lastspriteid":375713,"area":0}]
+{"type":"sprite","file":"sprites-b442bc8e9a890fc1d0669c77df51d5cd400c389d39f2eee434fcfb7415e06e1a.bmp.lzma","spritetype":3,"firstspriteid":375708,"lastspriteid":375713,"area":0},
+{"type":"sprite","file":"sprites-23a17e8e7b9fa4c9d6e5e37aa9cfce9feab93e69de26599dd5278717e445e448.bmp.lzma","spritetype":3,"firstspriteid":375714,"lastspriteid":375749,"area":0},
+{"type":"sprite","file":"sprites-f1d653aeb01eee8db46b5b8fd1bba87616c27ff763de0f5d6f618f62b316544a.bmp.lzma","spritetype":3,"firstspriteid":375750,"lastspriteid":375785,"area":0},
+{"type":"sprite","file":"sprites-2b9175fc27b17725afcbd81099a086cb17fe5f1936dc76d66c38dfc58fc38628.bmp.lzma","spritetype":3,"firstspriteid":375786,"lastspriteid":375821,"area":0},
+{"type":"sprite","file":"sprites-ab15bfbc106334aaa12fa3d7f18681d95832e00b66717ae5203365c16abce3b8.bmp.lzma","spritetype":3,"firstspriteid":375822,"lastspriteid":375857,"area":0},
+{"type":"sprite","file":"sprites-eb5ef71b1e1d519d927655264df9a67231b6e652d9cb85a4473341701e03ede3.bmp.lzma","spritetype":3,"firstspriteid":375858,"lastspriteid":375893,"area":0},
+{"type":"sprite","file":"sprites-ada3c38466d7ab280dfe67d37b4f5beab6078a9a88a5f49831666a4ca7764e16.bmp.lzma","spritetype":3,"firstspriteid":375894,"lastspriteid":375929,"area":0}]
