@@ -1,7 +1,7 @@
 [
   {
     "type": "appearances",
-    "file": "appearances-98d687692dd9c00a95886cc1d0630601514b5c03140d9a6d6fc6528a60a0ba04.dat"
+    "file": "appearances-564e1036a80c6c7f2739ef8bcbc61dbadb55ca824f93bbd9947d8eeff5ce50cf.dat"
   },
   {
     "type": "staticdata",
@@ -55029,4 +55029,10 @@
 {"type":"sprite","file":"sprites-2b9175fc27b17725afcbd81099a086cb17fe5f1936dc76d66c38dfc58fc38628.bmp.lzma","spritetype":3,"firstspriteid":375786,"lastspriteid":375821,"area":0},
 {"type":"sprite","file":"sprites-ab15bfbc106334aaa12fa3d7f18681d95832e00b66717ae5203365c16abce3b8.bmp.lzma","spritetype":3,"firstspriteid":375822,"lastspriteid":375857,"area":0},
 {"type":"sprite","file":"sprites-eb5ef71b1e1d519d927655264df9a67231b6e652d9cb85a4473341701e03ede3.bmp.lzma","spritetype":3,"firstspriteid":375858,"lastspriteid":375893,"area":0},
-{"type":"sprite","file":"sprites-ada3c38466d7ab280dfe67d37b4f5beab6078a9a88a5f49831666a4ca7764e16.bmp.lzma","spritetype":3,"firstspriteid":375894,"lastspriteid":375929,"area":0}]
+{"type":"sprite","file":"sprites-ada3c38466d7ab280dfe67d37b4f5beab6078a9a88a5f49831666a4ca7764e16.bmp.lzma","spritetype":3,"firstspriteid":375894,"lastspriteid":375929,"area":0},
+{"type":"sprite","file":"sprites-2d4780edb9e3280c51a6f3ad5f487b88aaa3faf1204b42129eadc930a62c419e.bmp.lzma","spritetype":3,"firstspriteid":375930,"lastspriteid":375965,"area":0},
+{"type":"sprite","file":"sprites-108e6e87881a3be06f26e64e6185733488f5a28db80ce68ff82367a0c3133f0c.bmp.lzma","spritetype":3,"firstspriteid":375966,"lastspriteid":376001,"area":0},
+{"type":"sprite","file":"sprites-07165ebb07179562ae861827cdfd43e13bc7bafcf872ddb6c14c3dcd9398ecec.bmp.lzma","spritetype":3,"firstspriteid":376002,"lastspriteid":376037,"area":0},
+{"type":"sprite","file":"sprites-231c9d1e17ec0d4559bbdb86ec37ef35b020ffdae046c1a5b4b3575d8927238f.bmp.lzma","spritetype":3,"firstspriteid":376038,"lastspriteid":376073,"area":0},
+{"type":"sprite","file":"sprites-60d0a6036e9208cd011443fe3bf8143fff671d8b1c50efcc673c2a18817d0fcd.bmp.lzma","spritetype":3,"firstspriteid":376074,"lastspriteid":376109,"area":0},
+{"type":"sprite","file":"sprites-a76a0f15766ea31ec923a126591021bac7eb8b86b154dc0d9bc6109e0d4eed1c.bmp.lzma","spritetype":3,"firstspriteid":376110,"lastspriteid":376145,"area":0}]
