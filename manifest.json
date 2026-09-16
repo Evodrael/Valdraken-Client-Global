@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.31",
-    "generated":  "2026-09-14T22:38:49-03:00",
+    "version":  "15.24.32",
+    "generated":  "2026-09-16T15:20:16-03:00",
     "count":  10298,
     "files":  [
                   {
@@ -49,9 +49,9 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-3b3ced2753cc0129f57463dc4cda2da9390c1b08eb273d9fe95c3ecd439842f5.dat",
-                      "sha256":  "3b3ced2753cc0129f57463dc4cda2da9390c1b08eb273d9fe95c3ecd439842f5",
-                      "size":  5517177
+                      "path":  "assets/appearances-a155b191fb9c040f35ea955d1c4a26b5b33720abf3429aa541c7e314801fe9cf.dat",
+                      "sha256":  "a155b191fb9c040f35ea955d1c4a26b5b33720abf3429aa541c7e314801fe9cf",
+                      "size":  5517178
                   },
                   {
                       "path":  "assets/backdrop_map-c92739d7eaacf08338f2af80ea3b54829897a77f82f5630b1dcd4368807c4639.jpg",
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "84d5f9b9e26296e6d25c2ce9fc48176cd62c111ff109311d446fbf7d153745e7",
+                      "sha256":  "e56e266ea5d72f6e73b5dbb4a2a32f205a0b64d14cef42c10b198f2fab359039",
                       "size":  1509953
                   },
                   {
@@ -1044,9 +1044,9 @@
                       "size":  378
                   },
                   {
-                      "path":  "assets/proficiencies-f8fb05dcab45ab30b00b55628a59314353edb502e77b6691f12ddcfff94a6f60.json",
-                      "sha256":  "f8fb05dcab45ab30b00b55628a59314353edb502e77b6691f12ddcfff94a6f60",
-                      "size":  470614
+                      "path":  "assets/proficiencies-9226ad4858a5273b6b0a5824b96717bd5cd7238cf47fc19da42e0fdd5aaa1966.json",
+                      "sha256":  "9226ad4858a5273b6b0a5824b96717bd5cd7238cf47fc19da42e0fdd5aaa1966",
+                      "size":  472540
                   },
                   {
                       "path":  "assets/satellite-16-0996-0968-00-afe4828ec88515bac295a5fcfef12a6566b6430777f70ed257387d6185294f2f.bmp.lzma",
