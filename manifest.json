@@ -1,7 +1,7 @@
 {
-    "version":  "15.24.32",
-    "generated":  "2026-09-16T15:20:16-03:00",
-    "count":  10298,
+    "version":  "15.24.33",
+    "generated":  "2026-09-18T12:24:47-03:00",
+    "count":  10306,
     "files":  [
                   {
                       "path":  "3rdpartylicences/apache-v2.txt",
@@ -49,9 +49,9 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-a155b191fb9c040f35ea955d1c4a26b5b33720abf3429aa541c7e314801fe9cf.dat",
-                      "sha256":  "a155b191fb9c040f35ea955d1c4a26b5b33720abf3429aa541c7e314801fe9cf",
-                      "size":  5517178
+                      "path":  "assets/appearances-eab668228a03ea015326a28ce8ba162a216299c32fae56fff7d489077aa045b5.dat",
+                      "sha256":  "eab668228a03ea015326a28ce8ba162a216299c32fae56fff7d489077aa045b5",
+                      "size":  5519561
                   },
                   {
                       "path":  "assets/backdrop_map-c92739d7eaacf08338f2af80ea3b54829897a77f82f5630b1dcd4368807c4639.jpg",
@@ -60,8 +60,8 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "e56e266ea5d72f6e73b5dbb4a2a32f205a0b64d14cef42c10b198f2fab359039",
-                      "size":  1509953
+                      "sha256":  "d4444c6f3d5498391e6cabc1bf23681635ac09016c9b275024c3367583b5940e",
+                      "size":  1511385
                   },
                   {
                       "path":  "assets/map-149b61053e2a4339363323799f63c6741ef7430730e74a9c51698db12a4c1e93.dat",
@@ -11319,6 +11319,11 @@
                       "size":  15440
                   },
                   {
+                      "path":  "assets/sprites-3316e61339a98d8ebc7bf1e626d236f8e246afc00de67ea15fa4e75749257b3e.bmp.lzma",
+                      "sha256":  "a6ff972bb65e48d4e4301974a4264276aecef9bf912383f1c106fbddf67d12a4",
+                      "size":  12497
+                  },
+                  {
                       "path":  "assets/sprites-331ac12c5b391ea74ed8ce53f41cd37cddcf4269f64dfd6d0fc5dca6d0a3bc35.bmp.lzma",
                       "sha256":  "6a64aa5d021f3291201999790b951abecaa36e404d042e291acc99fd03dc65f2",
                       "size":  19924
@@ -16134,6 +16139,11 @@
                       "size":  7931
                   },
                   {
+                      "path":  "assets/sprites-56cb58e68fb63db074e2960badfbdd6ca78d833dc0ecf30e3382b5e5a793ea71.bmp.lzma",
+                      "sha256":  "e72982f90da7a22ad8f8eb0907ccf921448a3b78f5e6860859741c50330c1498",
+                      "size":  41387
+                  },
+                  {
                       "path":  "assets/sprites-56e0460665b176f90a8377519c8e59dacae3902924fa967bb573e8b561908a87.bmp.lzma",
                       "sha256":  "8ca2b6823125a16051198c815d1fff1fd4eaba6e2cb9d2e600beb69dc0e7d4a9",
                       "size":  6060
@@ -19084,6 +19094,11 @@
                       "size":  59974
                   },
                   {
+                      "path":  "assets/sprites-6db358368f59e7d9742c2f5cf0ae86152fcb75238dbe8617a57414a14befb811.bmp.lzma",
+                      "sha256":  "94986deeb454915356e99384834242df84c7140f69e624f82200dc6009577452",
+                      "size":  12515
+                  },
+                  {
                       "path":  "assets/sprites-6dc3a7b3a4a7c1dfb4f661743d25022e9f34577b6063a2a76acd8a5b521be63e.bmp.lzma",
                       "sha256":  "86e1cad6d39bd086b2f5a4529e84f7b801d4ec3d3afdf71e03d3fc42db931d6d",
                       "size":  8724
@@ -21899,6 +21914,11 @@
                       "size":  23512
                   },
                   {
+                      "path":  "assets/sprites-828e65ac090f3f58fd8faa783405c18b95333feda768a4a84b3dc2bad21d5ea6.bmp.lzma",
+                      "sha256":  "c4e7d6463905eac084a9e3dcf55ffbe25c13b47c6a1297e216c253bf6a564404",
+                      "size":  12457
+                  },
+                  {
                       "path":  "assets/sprites-8291b51ad2e762851299f9b505aaa17a535b521389057f3162611890af0503e6.bmp.lzma",
                       "sha256":  "8737e84de6249dba97a02ef2f3d9ec9d75a42c679aa68595dc41a7d5cc5f4dda",
                       "size":  14710
@@ -24122,6 +24142,11 @@
                       "path":  "assets/sprites-92d124b2b9b4a86029a57d730aa25482c163e2be2842269e24bdb4a4aed1800d.bmp.lzma",
                       "sha256":  "5eaddefb7b34a8959028dcd69a1466d9b1f9718a2b322aa5c05d5bcb6568b2a5",
                       "size":  12453
+                  },
+                  {
+                      "path":  "assets/sprites-92d2561944214c5508742205b83ee44368f6f6f0f23ba5f497eb7843b236919f.bmp.lzma",
+                      "sha256":  "5efe2c55376611528b77ca7d15e51504d43409796b9dbf626b8864f329914ee3",
+                      "size":  12576
                   },
                   {
                       "path":  "assets/sprites-92f69dae5e729c27c472e1d3608a4975151c25e26e894f20885388f57a3efc41.bmp.lzma",
@@ -28372,6 +28397,11 @@
                       "path":  "assets/sprites-b197a4727031a338a0c535daa0cc222e1ff41f20080bcae552bb56a52d8b30b6.bmp.lzma",
                       "sha256":  "697a424557be6eae371ad5b2f3a9e6f69d067eab28896045ead98ba2bfc6b638",
                       "size":  37333
+                  },
+                  {
+                      "path":  "assets/sprites-b1a2a18a1e0d86cf08b07acb17f2030999d19b436737870bd5ff71538c9e51ff.bmp.lzma",
+                      "sha256":  "8ffb5edc8ef147c239aee07c4384026e6860c928e88d4a08bc6789bdf6b23298",
+                      "size":  45396
                   },
                   {
                       "path":  "assets/sprites-b1a520ea4250928208a0563cbde848570107e8870580657d8808c962b0d77a3d.bmp.lzma",
@@ -33012,6 +33042,11 @@
                       "path":  "assets/sprites-d312467f0e6b0189303ae0d13b93f56d3de9ed1748e8f6364df376b9972123a7.bmp.lzma",
                       "sha256":  "a0c11de2c09958846cd759849c2479b5ec71f668d6f3e611f58ae462ba937801",
                       "size":  8896
+                  },
+                  {
+                      "path":  "assets/sprites-d3128f37f416e34020f13ac603684734e7b821ade1fcf15ec3080863707e814b.bmp.lzma",
+                      "sha256":  "6e3bd65d0f5628e5f00f3e83b73fcfd4dd0abba7c08f1be8cfddb65a6e4d9d19",
+                      "size":  39660
                   },
                   {
                       "path":  "assets/sprites-d314e48b65a65db27de1086c6bdf1f68b95652a55a9dc7c6760577042ced87a2.bmp.lzma",
@@ -37737,6 +37772,11 @@
                       "path":  "assets/sprites-f7448aaa92520f3d8487078e300384a9a0931ef33c10d3521122eaeb3e0dae60.bmp.lzma",
                       "sha256":  "948d980c7f186e86f8392bb22a7150581d744404a3a75cdd0e3b90a9ae959098",
                       "size":  4858
+                  },
+                  {
+                      "path":  "assets/sprites-f74630bd83ca3bf05de83e72f7d205e75054194ebce1157ec0ff66912db3f379.bmp.lzma",
+                      "sha256":  "f42b3813ce1b373eefe9e335c29f6c11eef49551ee8f2caec0a671b1d4f7bedf",
+                      "size":  43987
                   },
                   {
                       "path":  "assets/sprites-f749ce77661d14f1855ef83c881394d6beb6991b73d2cabd57ca8a9066017dbb.bmp.lzma",
