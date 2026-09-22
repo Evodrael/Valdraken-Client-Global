@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.38",
-    "generated":  "2026-09-21T17:00:40-03:00",
+    "version":  "15.24.39",
+    "generated":  "2026-09-22T18:04:56-03:00",
     "count":  10307,
     "files":  [
                   {
@@ -49,9 +49,9 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-babbdfda5897d6cd30b9589110854044c7e06a5a97b1bf782ba3ca12edad9c21.dat",
-                      "sha256":  "babbdfda5897d6cd30b9589110854044c7e06a5a97b1bf782ba3ca12edad9c21",
-                      "size":  5520931
+                      "path":  "assets/appearances-68b4933a7af2602d23ab548907b77fbf4f93d8045440346bdc6e849c81b0aa0e.dat",
+                      "sha256":  "68b4933a7af2602d23ab548907b77fbf4f93d8045440346bdc6e849c81b0aa0e",
+                      "size":  5479146
                   },
                   {
                       "path":  "assets/backdrop_map-c92739d7eaacf08338f2af80ea3b54829897a77f82f5630b1dcd4368807c4639.jpg",
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "268c38df297c003a7153e552163f64133ae1cc2c3cf0912ebc28459d35be77ad",
+                      "sha256":  "6bedb7beb85682c42f37e07cbeb1f132f6ff7a3be59a4d33d813b8b988b2b765",
                       "size":  1511564
                   },
                   {
