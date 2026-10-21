@@ -4064,10 +4064,8 @@
             "Value": 0.025
           },
           {
-            "AugmentType": 6,
-            "SpellId": 258,
-            "Type": 5,
-            "Value": -2.0
+            "Type": 12,
+            "Value": 0.04
           },
           {
             "BestiaryId": 5,
@@ -27650,5 +27648,223 @@
     "Name": "Valkir Divine 2H Bow",
     "ProficiencyId": 468,
     "Version": 7
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "SkillId": 7,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 14,
+            "SpellId": 258,
+            "Type": 5,
+            "Value": 0.05
+          },
+          {
+            "Range": 4,
+            "Type": 22,
+            "Value": 10
+          },
+          {
+            "Type": 12,
+            "Value": 0.04
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "BestiaryId": 21,
+            "BestiaryName": "Inkborn",
+            "Type": 6,
+            "Value": 0.03
+          },
+          {
+            "AugmentType": 16,
+            "SpellId": 258,
+            "Type": 5,
+            "Value": 0.2
+          },
+          {
+            "Type": 12,
+            "Value": 0.06
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "DamageType": 128,
+            "Type": 4,
+            "Value": 1
+          },
+          {
+            "SkillId": 7,
+            "Type": 3,
+            "Value": 2
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "SkillId": 7,
+            "Type": 26,
+            "Value": 0.05
+          },
+          {
+            "SkillId": 1,
+            "Type": 27,
+            "Value": 1.25
+          },
+          {
+            "Type": 0,
+            "Value": 2
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 12,
+            "Value": 0.08
+          },
+          {
+            "AugmentType": 2,
+            "SpellId": 258,
+            "Type": 5,
+            "Value": 0.054
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.01
+          }
+        ]
+      }
+    ],
+    "Name": "Grenade 2H Bow",
+    "ProficiencyId": 469,
+    "Version": 6
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "SkillId": 7,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 14,
+            "SpellId": 258,
+            "Type": 5,
+            "Value": 0.05
+          },
+          {
+            "Range": 4,
+            "Type": 22,
+            "Value": 10
+          },
+          {
+            "Type": 12,
+            "Value": 0.04
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "BestiaryId": 21,
+            "BestiaryName": "Inkborn",
+            "Type": 6,
+            "Value": 0.03
+          },
+          {
+            "AugmentType": 16,
+            "SpellId": 258,
+            "Type": 5,
+            "Value": 0.2
+          },
+          {
+            "Type": 12,
+            "Value": 0.06
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "DamageType": 128,
+            "Type": 4,
+            "Value": 1
+          },
+          {
+            "SkillId": 7,
+            "Type": 3,
+            "Value": 2
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "SkillId": 7,
+            "Type": 26,
+            "Value": 0.05
+          },
+          {
+            "SkillId": 1,
+            "Type": 27,
+            "Value": 1.25
+          },
+          {
+            "Type": 0,
+            "Value": 2
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 12,
+            "Value": 0.08
+          },
+          {
+            "AugmentType": 2,
+            "SpellId": 258,
+            "Type": 5,
+            "Value": 0.06
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.01
+          }
+        ]
+      }
+    ],
+    "Name": "Grenade 2H Crossbow",
+    "ProficiencyId": 470,
+    "Version": 3
   }
 ]
