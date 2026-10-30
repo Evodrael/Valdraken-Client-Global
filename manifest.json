@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.58",
-    "generated":  "2026-10-30T14:16:09-03:00",
+    "version":  "15.24.59",
+    "generated":  "2026-10-30T19:25:50-03:00",
     "count":  10587,
     "files":  [
                   {
@@ -41495,7 +41495,7 @@
                   },
                   {
                       "path":  "bin/graphics_resources.rcc",
-                      "sha256":  "4af510a8fc8009e31da5c6028b437da36c0a5af3d21773276556e317fd629fb6",
+                      "sha256":  "42be987351fa047ca60027176e0173067623d84f9006c14e282c6b95b1de9784",
                       "size":  7902429
                   },
                   {
