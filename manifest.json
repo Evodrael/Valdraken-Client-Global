@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.63",
-    "generated":  "2026-11-02T03:18:43-03:00",
+    "version":  "15.24.64",
+    "generated":  "2026-11-02T15:46:52-03:00",
     "count":  10589,
     "files":  [
                   {
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "1b263458e3d386400fa4739f2839cbf0094e0e498b49857c71272b5726687018",
+                      "sha256":  "998d7cd4309de32b632dbec655b5b5d5cec506ff521d789dc6fde39b32b2fbb7",
                       "size":  1573030
                   },
                   {
@@ -5044,6 +5044,11 @@
                       "size":  7126
                   },
                   {
+                      "path":  "assets/sprites-035e362419f8972c32723ccf4340ad500774a2d1f5768a154489b3e8c6f87d49.bmp.lzma",
+                      "sha256":  "e6519fc1241c25454ea4448b35d4ae3fef92921387c75509971b2f7fb4b9fd37",
+                      "size":  9450
+                  },
+                  {
                       "path":  "assets/sprites-036764b8cad28d33eec887ba1d5b17638e229c8729f0add6f4c424d9cb7bce54.bmp.lzma",
                       "sha256":  "65821b81411cc842861947d7d4c9b226e8158d814f179b2e99526d1bd6f3c7f2",
                       "size":  5263
@@ -8439,11 +8444,6 @@
                       "size":  55243
                   },
                   {
-                      "path":  "assets/sprites-1e557a0c96f5e19951ceda3787172f515f68a032c8e70755b9aab4ab6d3192f7.bmp.lzma",
-                      "sha256":  "7f978667e328199f2e9efb38099741c0e2e28083b5c973852325ba41e65b8dcc",
-                      "size":  4229
-                  },
-                  {
                       "path":  "assets/sprites-1e566c0239be62d602c75d35171ae649e755822b1c448b1f24cf7738b4da7818.bmp.lzma",
                       "sha256":  "0a5814756de59993ec89a9f3bd18a20f7d1ac42f8181d0d2c4f8f53d82ad6cdd",
                       "size":  7043
@@ -9352,11 +9352,6 @@
                       "path":  "assets/sprites-252afd74ebda2a8a56aec5aeb20f13be55f5272f3252d4b2a1ed5805dd171b6a.bmp.lzma",
                       "sha256":  "fd9a89ff3f123997d1d0a6204f4509301fbbf901297e413a112a41364f0df590",
                       "size":  35012
-                  },
-                  {
-                      "path":  "assets/sprites-25366236721992863eea4aa39a60236eb035d346822b2342d3b874c8d77f0a68.bmp.lzma",
-                      "sha256":  "3f0b7eb0d349ee499e9f4adf67bb1acfe5efaa929e3b3473760d76dc7f12ecb1",
-                      "size":  9435
                   },
                   {
                       "path":  "assets/sprites-253cd349fef742c760b423a65b2c1dc95d99c792f208fc45614811e57ea0e87d.bmp.lzma",
@@ -39387,6 +39382,11 @@
                       "path":  "assets/sprites-f8b94f63dd9158dd346ed27b62b004bd21881c5e67931d2bda9acebda6e27634.bmp.lzma",
                       "sha256":  "2a3d694af9bd3098d7f1550f28b85176005ecbb95962e7433f59ff77fff29552",
                       "size":  18963
+                  },
+                  {
+                      "path":  "assets/sprites-f8c5d4bc677e7d039f78720a5fc94a808a99c4da8da4b25ff588981c80ef7093.bmp.lzma",
+                      "sha256":  "f4f8781ea483ad1745a0367e8ee0740b82594cb711250c71bc882450ca990df3",
+                      "size":  4136
                   },
                   {
                       "path":  "assets/sprites-f8d0a15d17ea33116d4dd0413b4f06ab40cc97b7cff69692da927ee060b7ecc8.bmp.lzma",
