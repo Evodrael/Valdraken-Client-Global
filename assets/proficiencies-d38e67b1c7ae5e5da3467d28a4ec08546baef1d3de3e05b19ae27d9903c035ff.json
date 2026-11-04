@@ -27664,7 +27664,7 @@
         "Perks": [
           {
             "AugmentType": 14,
-            "SpellId": 258,
+            "SpellId": 124,
             "Type": 5,
             "Value": 0.05
           },
@@ -27689,7 +27689,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 258,
+            "SpellId": 124,
             "Type": 5,
             "Value": 0.2
           },
@@ -27739,7 +27739,7 @@
           },
           {
             "AugmentType": 2,
-            "SpellId": 258,
+            "SpellId": 124,
             "Type": 5,
             "Value": 0.054
           }
@@ -27773,7 +27773,7 @@
         "Perks": [
           {
             "AugmentType": 14,
-            "SpellId": 258,
+            "SpellId": 124,
             "Type": 5,
             "Value": 0.05
           },
@@ -27798,7 +27798,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 258,
+            "SpellId": 124,
             "Type": 5,
             "Value": 0.2
           },
@@ -27848,7 +27848,7 @@
           },
           {
             "AugmentType": 2,
-            "SpellId": 258,
+            "SpellId": 124,
             "Type": 5,
             "Value": 0.06
           }
@@ -27866,5 +27866,436 @@
     "Name": "Grenade 2H Crossbow",
     "ProficiencyId": 470,
     "Version": 3
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "Type": 17,
+            "Value": 0.03
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 64,
+            "Type": 13,
+            "Value": 0.075
+          },
+          {
+            "SkillId": 1,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 14,
+            "SpellId": 156,
+            "Type": 5,
+            "Value": 0.1
+          },
+          {
+            "Type": 16,
+            "Value": 0.02
+          },
+          {
+            "BestiaryId": 21,
+            "BestiaryName": "Inkborn",
+            "Type": 6,
+            "Value": 0.03
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 64,
+            "Type": 9,
+            "Value": 0.01
+          },
+          {
+            "AugmentType": 15,
+            "SpellId": 156,
+            "Type": 5,
+            "Value": 0.05
+          },
+          {
+            "Type": 10,
+            "Value": 0.01
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "DamageType": 64,
+            "Type": 4,
+            "Value": 2
+          },
+          {
+            "SkillId": 1,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 17,
+            "Value": 0.05
+          },
+          {
+            "Type": 16,
+            "Value": 0.02
+          },
+          {
+            "Type": 14,
+            "Value": 0.12
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.01
+          }
+        ]
+      }
+    ],
+    "Name": "Burst 1H Rod",
+    "ProficiencyId": 471,
+    "Version": 8
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "Type": 12,
+            "Value": 0.05
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 256,
+            "Type": 13,
+            "Value": 0.075
+          },
+          {
+            "SkillId": 1,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 17,
+            "SpellId": 24,
+            "Type": 5,
+            "Value": 0.02
+          },
+          {
+            "Type": 12,
+            "Value": 0.05
+          },
+          {
+            "BestiaryId": 21,
+            "BestiaryName": "Inkborn",
+            "Type": 6,
+            "Value": 0.03
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 256,
+            "Type": 9,
+            "Value": 0.015
+          },
+          {
+            "AugmentType": 16,
+            "SpellId": 24,
+            "Type": 5,
+            "Value": 0.1
+          },
+          {
+            "Type": 10,
+            "Value": 0.01
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "DamageType": 256,
+            "Type": 4,
+            "Value": 2
+          },
+          {
+            "SkillId": 1,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 12,
+            "Value": 0.1
+          },
+          {
+            "Type": 14,
+            "Value": 0.12
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.01
+          }
+        ]
+      }
+    ],
+    "Name": "Strike 1H Wand",
+    "ProficiencyId": 472,
+    "Version": 10
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "SkillId": 1,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 16,
+            "Type": 13,
+            "Value": 0.1
+          },
+          {
+            "ElementId": 64,
+            "Type": 13,
+            "Value": 0.1
+          },
+          {
+            "Type": 16,
+            "Value": 0.02
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 2,
+            "SpellId": 263,
+            "Type": 5,
+            "Value": 0.08
+          },
+          {
+            "AugmentType": 16,
+            "SpellId": 263,
+            "Type": 5,
+            "Value": 0.25
+          },
+          {
+            "Type": 7,
+            "Value": 0.03
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "SkillId": 1,
+            "Type": 26,
+            "Value": 0.08
+          },
+          {
+            "AugmentType": 2,
+            "SpellId": 263,
+            "Type": 5,
+            "Value": 0.06
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "DamageType": 16,
+            "Type": 4,
+            "Value": 2
+          },
+          {
+            "DamageType": 64,
+            "Type": 4,
+            "Value": 2
+          },
+          {
+            "DamageType": 1048576,
+            "Type": 4,
+            "Value": 3
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 3,
+            "SpellId": 84,
+            "Type": 5,
+            "Value": 0.06
+          },
+          {
+            "Type": 16,
+            "Value": 0.02
+          },
+          {
+            "Type": 12,
+            "Value": 0.1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.03
+          }
+        ]
+      }
+    ],
+    "Name": "Valkir Divine 1H Rod",
+    "ProficiencyId": 473,
+    "Version": 12
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "SkillId": 1,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 32,
+            "Type": 13,
+            "Value": 0.1
+          },
+          {
+            "ElementId": 8,
+            "Type": 13,
+            "Value": 0.1
+          },
+          {
+            "Type": 12,
+            "Value": 0.07
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 2,
+            "SpellId": 260,
+            "Type": 5,
+            "Value": 0.08
+          },
+          {
+            "AugmentType": 16,
+            "SpellId": 260,
+            "Type": 5,
+            "Value": 0.25
+          },
+          {
+            "Type": 7,
+            "Value": 0.03
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "SkillId": 1,
+            "Type": 26,
+            "Value": 0.08
+          },
+          {
+            "AugmentType": 2,
+            "SpellId": 260,
+            "Type": 5,
+            "Value": 0.06
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "DamageType": 32,
+            "Type": 4,
+            "Value": 2
+          },
+          {
+            "DamageType": 8,
+            "Type": 4,
+            "Value": 2
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "ElementId": 32,
+            "Type": 9,
+            "Value": 0.02
+          },
+          {
+            "ElementId": 8,
+            "Type": 9,
+            "Value": 0.02
+          },
+          {
+            "Type": 12,
+            "Value": 0.1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.03
+          }
+        ]
+      }
+    ],
+    "Name": "Valkir Divine 1H Wand",
+    "ProficiencyId": 474,
+    "Version": 9
   }
 ]
