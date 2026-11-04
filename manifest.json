@@ -1,6 +1,6 @@
 {
-    "version":  "15.24.69",
-    "generated":  "2026-11-04T11:07:25-03:00",
+    "version":  "15.24.70",
+    "generated":  "2026-11-04T11:14:49-03:00",
     "count":  10590,
     "files":  [
                   {
@@ -41480,7 +41480,7 @@
                   },
                   {
                       "path":  "bin/client cip.exe",
-                      "sha256":  "fac85e30cbb222ecec4fcaca07eb18002464b0929798567df27780955ab88ffa",
+                      "sha256":  "ea4b7dd84ae11c3fbd03dfe514e64fced1cc0da1ae3332b4bc78415a2b9023cd",
                       "size":  38052808
                   },
                   {
@@ -41490,7 +41490,7 @@
                   },
                   {
                       "path":  "bin/client.exe",
-                      "sha256":  "ee1fb932a448a883ab5e2699be877c29cafc31aae707287b0037fb03c87532b4",
+                      "sha256":  "f72755d403128d53c32fdc621ff908a044e1352e4d9efc1c86a078f4f7f2e67d",
                       "size":  38053440
                   },
                   {
