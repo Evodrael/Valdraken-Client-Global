@@ -27664,7 +27664,7 @@
         "Perks": [
           {
             "AugmentType": 14,
-            "SpellId": 124,
+            "SpellId": 57,
             "Type": 5,
             "Value": 0.05
           },
@@ -27689,7 +27689,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 124,
+            "SpellId": 57,
             "Type": 5,
             "Value": 0.2
           },
@@ -27739,7 +27739,7 @@
           },
           {
             "AugmentType": 2,
-            "SpellId": 124,
+            "SpellId": 57,
             "Type": 5,
             "Value": 0.054
           }
@@ -27773,7 +27773,7 @@
         "Perks": [
           {
             "AugmentType": 14,
-            "SpellId": 124,
+            "SpellId": 57,
             "Type": 5,
             "Value": 0.05
           },
@@ -27798,7 +27798,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 124,
+            "SpellId": 57,
             "Type": 5,
             "Value": 0.2
           },
@@ -27848,7 +27848,7 @@
           },
           {
             "AugmentType": 2,
-            "SpellId": 124,
+            "SpellId": 57,
             "Type": 5,
             "Value": 0.06
           }
@@ -28001,7 +28001,7 @@
         "Perks": [
           {
             "AugmentType": 17,
-            "SpellId": 24,
+            "SpellId": 155,
             "Type": 5,
             "Value": 0.02
           },
@@ -28026,7 +28026,7 @@
           },
           {
             "AugmentType": 16,
-            "SpellId": 24,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.1
           },
@@ -28222,13 +28222,13 @@
         "Perks": [
           {
             "AugmentType": 2,
-            "SpellId": 260,
+            "SpellId": 154,
             "Type": 5,
             "Value": 0.08
           },
           {
             "AugmentType": 16,
-            "SpellId": 260,
+            "SpellId": 155,
             "Type": 5,
             "Value": 0.25
           },
@@ -28247,7 +28247,7 @@
           },
           {
             "AugmentType": 2,
-            "SpellId": 260,
+            "SpellId": 155,
             "Type": 5,
             "Value": 0.06
           }
@@ -28297,5 +28297,114 @@
     "Name": "Valkir Divine 1H Wand",
     "ProficiencyId": 474,
     "Version": 9
+  },
+  {
+    "Levels": [
+      {
+        "Perks": [
+          {
+            "SkillId": 11,
+            "Type": 3,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "SkillId": 11,
+            "Type": 25,
+            "Value": 0.05
+          },
+          {
+            "AugmentType": 14,
+            "SpellId": 288,
+            "Type": 5,
+            "Value": 0.05
+          },
+          {
+            "Type": 12,
+            "Value": 0.04
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 7,
+            "Value": 0.03
+          },
+          {
+            "AugmentType": 15,
+            "SpellId": 288,
+            "Type": 5,
+            "Value": 0.04
+          },
+          {
+            "Type": 12,
+            "Value": 0.08
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "AugmentType": 16,
+            "SpellId": 288,
+            "Type": 5,
+            "Value": 0.4
+          },
+          {
+            "AugmentType": 2,
+            "SpellId": 288,
+            "Type": 5,
+            "Value": 0.08
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "SkillId": 11,
+            "Type": 26,
+            "Value": 0.1
+          },
+          {
+            "AugmentType": 17,
+            "SpellId": 288,
+            "Type": 5,
+            "Value": 0.03
+          },
+          {
+            "Type": 0,
+            "Value": 1
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 12,
+            "Value": 0.1
+          },
+          {
+            "SkillId": 1,
+            "Type": 27,
+            "Value": 1.0
+          }
+        ]
+      },
+      {
+        "Perks": [
+          {
+            "Type": 8,
+            "Value": 0.03
+          }
+        ]
+      }
+    ],
+    "Name": "Valkir Divine 2H Claw",
+    "ProficiencyId": 475,
+    "Version": 6
   }
 ]
