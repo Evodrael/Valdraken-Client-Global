@@ -1,6 +1,6 @@
 {
-    "version":  "15.30.0",
-    "generated":  "2026-11-20T15:52:59-03:00",
+    "version":  "15.30.1",
+    "generated":  "2026-11-21T17:59:11-03:00",
     "count":  10880,
     "files":  [
                   {
@@ -49,9 +49,9 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-8598afc6493c0aef3e3aabecf825e9bda4f2bf42ca03473c3a00df659bd14bef.dat",
-                      "sha256":  "8598afc6493c0aef3e3aabecf825e9bda4f2bf42ca03473c3a00df659bd14bef",
-                      "size":  5878216
+                      "path":  "assets/appearances-b7603b9fd9c3517bc1ec37c2e3b830268ed7f2733b44167b0e09d6463b186d22.dat",
+                      "sha256":  "b7603b9fd9c3517bc1ec37c2e3b830268ed7f2733b44167b0e09d6463b186d22",
+                      "size":  5878220
                   },
                   {
                       "path":  "assets/backdrop_map-480600eacfef6da1044c029bdfdf0198f9766e2c1dddf41decd0ca778ac267c4.jpg",
@@ -60,7 +60,7 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "13966e4f6e8155d3b99ec082234084a4303dd01781aaf94a09dee538c89cc579",
+                      "sha256":  "93007a4708b02169a04fc1660773f69a9afd13acf840c583b1535374b6c13f6d",
                       "size":  1505656
                   },
                   {
@@ -41654,9 +41654,9 @@
                       "size":  7275
                   },
                   {
-                      "path":  "assets/staticdata-c64b423f1af382476855afca43879e4c6b3471c2a865668acf22b8afdf369762.dat",
-                      "sha256":  "c64b423f1af382476855afca43879e4c6b3471c2a865668acf22b8afdf369762",
-                      "size":  179844
+                      "path":  "assets/staticdata-316e80138fe5880698f2fdb1022f87c42c24716648ec1ebdfc2e0af50c8bcd2b.dat",
+                      "sha256":  "316e80138fe5880698f2fdb1022f87c42c24716648ec1ebdfc2e0af50c8bcd2b",
+                      "size":  179943
                   },
                   {
                       "path":  "assets/staticmapdata-0967af2eacdd8f2a608e738b9042362676167d6c6455e60d08db7ae16cf7ea53.dat",
@@ -49794,8 +49794,8 @@
                   },
                   {
                       "path":  "conf/config.ini",
-                      "sha256":  "d762797ef1452cf8034594520eaa63b0f312ac3a65af1d50b2b2c59b6c265e6d",
-                      "size":  113
+                      "sha256":  "00f5709c8f72adf4de1b3e16edc774857153b28576be8e850462f71f0a23fef9",
+                      "size":  172
                   },
                   {
                       "path":  "conf/gpublacklist.json",
