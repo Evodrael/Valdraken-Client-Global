@@ -1,7 +1,7 @@
 {
-    "version":  "15.30.9",
-    "generated":  "2026-11-25T06:40:46-03:00",
-    "count":  10888,
+    "version":  "15.30.10",
+    "generated":  "2026-11-25T07:09:12-03:00",
+    "count":  10889,
     "files":  [
                   {
                       "path":  "3rdpartylicences/apache-v2.txt",
@@ -49,9 +49,9 @@
                       "size":  64
                   },
                   {
-                      "path":  "assets/appearances-26fb253fc2737d4cf68459416de0f2b5af91d52d4f6691296bf2b34ee969bee0.dat",
-                      "sha256":  "26fb253fc2737d4cf68459416de0f2b5af91d52d4f6691296bf2b34ee969bee0",
-                      "size":  5879971
+                      "path":  "assets/appearances-b076f9d0ff8c3d6115aa36660b49307d803528f7fabd49353f1779b807be4f60.dat",
+                      "sha256":  "b076f9d0ff8c3d6115aa36660b49307d803528f7fabd49353f1779b807be4f60",
+                      "size":  5881314
                   },
                   {
                       "path":  "assets/backdrop_map-480600eacfef6da1044c029bdfdf0198f9766e2c1dddf41decd0ca778ac267c4.jpg",
@@ -60,8 +60,8 @@
                   },
                   {
                       "path":  "assets/catalog-content.json",
-                      "sha256":  "dd51ba8839ee21baa74b6f3a7bab2587f6487b9a622adb5e3e750571cce34c41",
-                      "size":  1507196
+                      "sha256":  "ba0ae37811acfb1f6dab8b81fb88bddf985db1ac5d48254d9b7c221021ea2669",
+                      "size":  1507416
                   },
                   {
                       "path":  "assets/map-9659e863947ccbb026784b5f617c21ed97ab2e1493f7333c74f222f7c115b14c.dat",
@@ -4817,6 +4817,11 @@
                       "path":  "assets/sprites-00308205b98ed2cfe6ecde14d4ba82a035e617e9cac0f31a5002466e6ece5499.bmp.lzma",
                       "sha256":  "d97baa7a3f69af37e6f10b5d672713d63ddd4ef9dda2266a8c43f59647e0e9bc",
                       "size":  14473
+                  },
+                  {
+                      "path":  "assets/sprites-003760dc1294e974155da5d553ae88898c7c718a454a8b09aa877a3ed9942181.bmp.lzma",
+                      "sha256":  "72bda34bf241de1721357d9e821f0c2fa9d29d41254d8bc8d5fa71a339a27b12",
+                      "size":  6039
                   },
                   {
                       "path":  "assets/sprites-00447af065206503e405e1956fd60fd87d697634cbb802367b40b7f6aee80e29.bmp.lzma",
