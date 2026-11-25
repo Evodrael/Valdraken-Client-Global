@@ -1,7 +1,7 @@
 {
-    "version":  "15.30.8",
-    "generated":  "2026-11-24T22:49:56-03:00",
-    "count":  10887,
+    "version":  "15.30.9",
+    "generated":  "2026-11-25T06:40:46-03:00",
+    "count":  10888,
     "files":  [
                   {
                       "path":  "3rdpartylicences/apache-v2.txt",
@@ -42740,7 +42740,7 @@
                   },
                   {
                       "path":  "bin/client.exe",
-                      "sha256":  "20a5805cc6da847559e451b6654e9333e7979fd16bc47375ec86894b126316de",
+                      "sha256":  "0e66e960a97ca5aa95ff2750a35c2b9f5a2558188d5c3242160164ca732dd53d",
                       "size":  39201744
                   },
                   {
@@ -49826,6 +49826,11 @@
                       "path":  "bin/translations/qtwebengine_locales/en-US.pak",
                       "sha256":  "cefc6429bcd25fda7b1ff59786a98f0a495ef35c90ffd28daa75354b00f170a2",
                       "size":  483888
+                  },
+                  {
+                      "path":  "bin/valdraken/PovTimer.qml",
+                      "sha256":  "88afdca8a6258ee2e58bbdd1ae6ac3ef77a88a3294a7786d153188774d0549f0",
+                      "size":  2518
                   },
                   {
                       "path":  "conf/config.ini",
