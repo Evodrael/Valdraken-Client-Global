@@ -1,7 +1,7 @@
 {
-    "version":  "15.30.10",
-    "generated":  "2026-11-25T07:09:12-03:00",
-    "count":  10889,
+    "version":  "15.30.11",
+    "generated":  "2026-11-26T12:11:32-03:00",
+    "count":  10890,
     "files":  [
                   {
                       "path":  "3rdpartylicences/apache-v2.txt",
@@ -49833,9 +49833,14 @@
                       "size":  483888
                   },
                   {
+                      "path":  "bin/valdraken/BonusAtivo.qml",
+                      "sha256":  "4e3be193908e37e825f68e2678aa72fd3c1941e751f3e6493333327896dc916b",
+                      "size":  14658
+                  },
+                  {
                       "path":  "bin/valdraken/PovTimer.qml",
-                      "sha256":  "88afdca8a6258ee2e58bbdd1ae6ac3ef77a88a3294a7786d153188774d0549f0",
-                      "size":  2518
+                      "sha256":  "92ca9fedf1c599819c51a321a4d71f994cd8d020d453168241feac6fe3b22b8b",
+                      "size":  3002
                   },
                   {
                       "path":  "conf/config.ini",
