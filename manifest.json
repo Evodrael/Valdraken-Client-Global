@@ -1,6 +1,6 @@
 {
-    "version":  "15.30.11",
-    "generated":  "2026-11-26T12:11:32-03:00",
+    "version":  "15.30.12",
+    "generated":  "2026-11-26T12:34:19-03:00",
     "count":  10890,
     "files":  [
                   {
@@ -42745,7 +42745,7 @@
                   },
                   {
                       "path":  "bin/client.exe",
-                      "sha256":  "0e66e960a97ca5aa95ff2750a35c2b9f5a2558188d5c3242160164ca732dd53d",
+                      "sha256":  "a482996c4c075a1e52e568477afdbec0c71c125fae6bdcbee4af9ef095817133",
                       "size":  39201744
                   },
                   {
